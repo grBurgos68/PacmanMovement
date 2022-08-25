@@ -5,7 +5,10 @@ Ejercicio para mostrar el movimiento y cambio de dirección de Pacman
 Descargar los archivos contenidos en este repositorio. Crear un directorio local para descargarlos.
 
 # Video
-Demostraciòn del proyecto funcionando con 20 packmen
+Demostraciòn del proyecto en el que Pacman se desplaza
+
+
+https://user-images.githubusercontent.com/98678236/186713845-c5cf86ee-859f-458d-a0f5-ece91a88394a.mp4
 
 
 #### Social Networks
