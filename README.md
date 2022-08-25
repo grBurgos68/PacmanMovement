@@ -8,8 +8,6 @@ Descargar los archivos contenidos en este repositorio. Crear un directorio local
 Demostraciòn del proyecto funcionando con 20 packmen
 
 
-https://user-images.githubusercontent.com/98678236/186553749-469af49b-aba8-4c27-a9d3-a3b843593ab1.mp4
-
 #### Social Networks
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grburgos68@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-burgos-alvarez)
